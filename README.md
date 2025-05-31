@@ -109,16 +109,4 @@ Relatos num raio de 10 km:
 Relatos ordenados por data.
 ```
 
----
 
-
-
----
-
----
-
-## Comentários Finais
-
-- O sistema pode ser expandido para projetos acadêmicos ou aplicações reais.
-
----
